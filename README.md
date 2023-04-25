@@ -1,3 +1,3 @@
 # My Personal Website
 
-Background image- The waterfront, Jersey City NJ by Edward Mer on Unsplashed.
+Background Image - The waterfront, Jersey City NJ by Edward Mer from Unsplashed.

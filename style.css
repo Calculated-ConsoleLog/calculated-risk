@@ -7,9 +7,61 @@ html, body {
 
  h1,
  h2 {
-    color: white;
+    color:whitesmoke;
     text-align: center;
  }
 
+ #head {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+ }
+
+ #head1 {
+    display: flex;
+    flex: 1;
+    padding-left: 100px;
+    color: orangered;
+    font-weight: bolder;
+    font-size: x-large;
+    flex-wrap: wrap;
+   
+    
+ }
+
+ #head2 {
+    display: flex;
+    flex: 1;
+    color: orangered;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-left: 250px;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    
+ }
+
+ #head3 {
+    display: flex;
+    flex: 1;
+    color: orangered;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-left: 140px;
+    flex-wrap: wrap;
+    
+ }
+
+ .pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 165px;
+    
+ }
  
+ #front {
+    padding: 90px;
+ }
 
