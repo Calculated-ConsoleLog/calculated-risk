@@ -1,5 +1,6 @@
 body {
-    background: rgba(28, 28, 95, 0.635);
+    background: url('./images/edward-mer-eZ_8FEjX_As-unsplash\ \(1\).jpg');
+    background-size: 1450px;
 }
 
  h1,
@@ -8,4 +9,5 @@ body {
     text-align: center;
  }
 
+ 
 
